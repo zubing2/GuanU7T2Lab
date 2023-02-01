@@ -74,5 +74,7 @@ public class Main {
         numList.set(numList.size() - 1, 0);
 
         System.out.println(numList);
+
+
     }
 }
